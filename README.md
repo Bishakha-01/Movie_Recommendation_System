@@ -493,8 +493,3 @@ This project helped develop practical experience in:
 
 ---
 
-## 📬 Contact
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-Contributions, suggestions, and feedback are always welcome.
